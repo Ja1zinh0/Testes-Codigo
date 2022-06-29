@@ -13,5 +13,6 @@ int main(void) {
     }
 
     cout << soma;
+    //Soma = 91;
 return 0;
 }
